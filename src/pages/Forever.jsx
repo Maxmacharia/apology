@@ -16,6 +16,11 @@ export default function Forever() {
       />
 
       <p className="max-w-xl text-lg leading-relaxed">
+	Cheki hio smile babe. Unanimaliza nayo. Huku nje nashinda nikiringa 
+	na wewe na furaha ndani ya roho nikisema
+	mamaa akona smile fiti na ni mrembo alafu nasmile. Nikiona jina yako
+	kwa hii shambala my heart inaskip a beat.
+	<br /><br />
         Baby, thank you for being you 💕  
         Your love, patience, and emotions mean everything to me.
         <br /><br />
